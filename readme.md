@@ -12,3 +12,5 @@
 1. directorio de trabajo
 2. zonba de preparacion 
 3. repositprio got 
+
+##sistema d econtrñl de versiones eficiente y confiable de archivos 
