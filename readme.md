@@ -17,3 +17,6 @@
 
 
 ## sacar de la zona reset head
+
+. agrega todo
+ -A agrega aquellos archivos que ya estamos siguiendo 
