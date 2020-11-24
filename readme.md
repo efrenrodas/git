@@ -14,3 +14,6 @@
 3. repositprio got 
 
 ##sistema d econtrñl de versiones eficiente y confiable de archivos 
+
+
+## sacar de la zona reset head
