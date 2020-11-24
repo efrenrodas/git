@@ -8,3 +8,7 @@
 
 --------------------
 6. configurando git no github
+#zonas de git 
+1. directorio de trabajo
+2. zonba de preparacion 
+3. repositprio got 
